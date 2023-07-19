@@ -121,7 +121,8 @@ simple bar chart to represent our data as follows:
 ggplot(data = pets_2) +
   geom_col(mapping = aes(x = pet_rate, y = Country), fill = "blue")
 ```
-![unnamed-chunk-5-1](https://github.com/MiguelOmarBH/MyFirstRep/assets/135857016/0065a79d-7f98-4199-be2c-e5efbefb64d8)
+![unnamed-chunk-5-1](https://github.com/MiguelOmarBH/European_Country_Pets-Viz/assets/135857016/4d93707f-f4cd-45e8-b233-20171030896d)
+
 
 
 This is a simple way to represent our data. But we want to make it look
@@ -153,7 +154,8 @@ how it looks like:
 print(pets_plot)
 ```
 
-![unnamed-chunk-7-1](https://github.com/MiguelOmarBH/MyFirstRep/assets/135857016/2f70cc9b-a2e9-4d23-9513-7c5432733b17)
+![unnamed-chunk-7-1](https://github.com/MiguelOmarBH/European_Country_Pets-Viz/assets/135857016/313f436d-d1f1-45fb-a41c-54afc30b26c2)
+
 
 
 Fantastic! Our code worked and our plot is ready to save and share! At a
